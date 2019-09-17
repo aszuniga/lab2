@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 
@@ -2240,4 +2239,3 @@ We could easily place our phones to somewhere out of reach while studying to avo
 </body>
 
 </html>
->>>>>>> b8c51a1da30eaa85ef26b133dcea6cdc3c330f2e

@@ -2227,7 +2227,7 @@ We could easily place our phones to somewhere out of reach while studying to avo
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
   <!-- Plugin JavaScript -->
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 
   <!-- Contact form JavaScript -->
   <script src="js/jqBootstrapValidation.js"></script>
